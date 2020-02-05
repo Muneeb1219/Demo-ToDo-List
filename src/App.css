@@ -1,0 +1,46 @@
+.App{
+
+  background-color: azure;
+  min-height: 400px;
+  width: 300px;
+  margin: 20px auto ;
+  
+
+
+}
+
+#todo-form input{
+  background-color:maroon;
+  border: 0px;
+  width: 400px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 20px;
+  margin-left:500px;
+  border-radius: 10px;
+  outline: none;
+  align-content: center;
+  
+
+
+}
+
+::placeholder{
+
+  color:white;
+  font-size: medium;
+  font-style: oblique;
+
+  
+
+
+}
+
+h1{
+  color: purple;
+  text-align: center;
+  
+  
+}
+
+
